@@ -12,7 +12,7 @@ def main():
     pass_content = ""
 
     os.chdir("Project3")
-    student = "afwilkin"
+    student = ""
     for student in students:
         print(student)
         os.chdir(student)
